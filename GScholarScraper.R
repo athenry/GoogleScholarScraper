@@ -113,5 +113,3 @@ GScholar_Scraper(input, since = 2006, citation = 0)
 # 3:
 input <- "allintitle:ziggy stardust"
 GScholar_Scraper(input, write = T)
-
-## saving a change to test version control
